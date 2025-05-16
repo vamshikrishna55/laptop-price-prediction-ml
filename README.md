@@ -74,5 +74,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ---
 
 ## 👤 Author
+**Vamshi Krishna Reddy Attla**  
+- 📧 vamshikrishna.reddy555@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/vamsikrishna11/)
 
-**Rohit Vardhan**
